@@ -1,0 +1,14 @@
+
+Pictures/non-EPSs/allLogos.png
+*.pdf
+*.ps
+*.aux
+*.log
+*.bak
+*.dvi
+*.sav
+*.out
+*.nav
+*.snm
+*.toc
+
