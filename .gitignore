@@ -11,4 +11,5 @@ Pictures/non-EPSs/allLogos.png
 *.nav
 *.snm
 *.toc
+.DS_Store
 
